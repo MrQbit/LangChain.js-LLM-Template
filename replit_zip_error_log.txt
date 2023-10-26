@@ -1,0 +1,3 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/uuid","time":"2023-10-26T21:29:13Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/hnswlib-node/build/node_gyp_bins/python3","time":"2023-10-26T21:29:14Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/langchain/node_modules/.bin/uuid","time":"2023-10-26T21:29:14Z"}
